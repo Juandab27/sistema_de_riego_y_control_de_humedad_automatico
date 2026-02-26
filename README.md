@@ -120,7 +120,8 @@ Este valor debe ajustarse según el tipo de cultivo y las condiciones del suelo.
 
 Proyecto académico desarrollado en equipo.
 
-Mi rol en el proyecto:
+**Juan David Bermúdez**
+
 Desarrollo del código, implementación de la lógica de control y programación del microcontrolador.
 
 ---
